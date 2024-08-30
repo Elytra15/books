@@ -108,97 +108,113 @@
         "title": "I Wish You All the Best",
         "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1538483349i/41473872.jpg",
         "dateRead": "Jul 28, 2023",
-        "rating": 5
+        "rating": 5,
+        "author": "Mason Deaver"
     },
     {
         "title": "Överlevnadsguiden",
         "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1679196492i/105288781.jpg",
         "dateRead": "Jun 15, 2023",
-        "rating": 4
+        "rating": 4,
+        "author": "Rich Johnson"
     },
     {
         "title": "Noah Goes Nuclear",
         "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1533835523i/41072789.jpg",
         "dateRead": "Jun, 2023",
-        "rating": 5
+        "rating": 5,
+        "author": "Simon James Green"
     },
     {
         "title": "Noah Could Never",
         "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1516570312i/38117293.jpg",
         "dateRead": "May 31, 2023",
-        "rating": 5
+        "rating": 5,
+        "author": "Simon James Green"
     },
     {
         "title": "Looking for Alaska",
         "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1362936397i/17416065.jpg",
         "dateRead": "May 19, 2023",
-        "rating": 4
+        "rating": 4,
+        "author": "John Green"
     },
     {
         "title": "Noah Can't Even",
         "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1485023412i/33961524.jpg",
         "dateRead": "May 15, 2023",
-        "rating": 5
+        "rating": 5,
+        "author": "Simon James Green"
     },
     {
         "title": "Someday",
         "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1517896364i/26309873.jpg",
         "dateRead": "May 11, 2023",
-        "rating": 4
+        "rating": 4,
+        "author": "David Levithan"
     },
     {
         "title": "Something Like Winter",
         "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1457807538i/16093007.jpg",
         "dateRead": "Mar 8, 2023",
-        "rating": 5
+        "rating": 5,
+        "author": "Jay Bell"
     },
     {
         "title": "Suicide Notes",
         "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1424990334i/3097601.jpg",
         "dateRead": "Feb 14, 2023",
-        "rating": 5
+        "rating": 5,
+        "author": "Michael Thomas Ford"
     },
-{
+    {
         "title": "This Is Where It Ends",
         "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1431358364i/24529123.jpg",
         "dateRead": "Feb 9, 2023",
-        "rating": 3
+        "rating": 3,
+        "author": "Marieke Nijkamp"
     },
     {
         "title": "Something Like Summer",
         "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1420254242i/10213367.jpg",
         "dateRead": "Feb 6, 2023",
-        "rating": 5
+        "rating": 5,
+        "author": "Jay Bell"
     },
     {
         "title": "22 Tiny Lessons That Changed My Life In 2022",
         "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1671106954i/68001801.jpg",
         "dateRead": "Jan 26, 2023",
-        "rating": 4
+        "rating": 4,
+        "author": "Maneetpaul Singh"
     },
     {
         "title": "Aristotle and Dante Dive into the Waters of the World",
         "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1616274273i/57120895.jpg",
         "dateRead": "Jan 25, 2023",
-        "rating": 5
+        "rating": 5,
+        "author": "Benjamin Alire Sáenz"
     },
     {
         "title": "If This Gets Out",
         "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1610723548i/54738255.jpg",
         "dateRead": "Jan 19, 2023",
-        "rating": 4
+        "rating": 4,
+        "author": "Sophie Gonzales, Cale Dietrich"
     },
     {
         "title": "1984",
         "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1351644426i/296829.jpg",
         "dateRead": "Jan 11, 2023",
-        "rating": 4
+        "rating": 4,
+        "author": "George Orwell"
     },
     {
         "title": "Honestly Ben",
         "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1468438526i/27230789.jpg",
         "dateRead": "Jan 10, 2023",
-        "rating": 5
+        "rating": 5,
+        "author": "Bill Konigsberg"
     },
     {
         "title": "The Song of Achilles",
