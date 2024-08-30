@@ -45,55 +45,64 @@
         "title": "The First to Die at the End",
         "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1647651404i/59723790.jpg",
         "dateRead": "May 06, 2024",
-        "rating": 4
+        "rating": 4,
+        "author": "Adam Silvera"
     },
     {
         "title": "Animal Farm",
         "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1325861570i/170448.jpg",
         "dateRead": "Apr 28, 2024",
-        "rating": 3
+        "rating": 3,
+        "author": "George Orwell"
     },
     {
         "title": "Swimming in the Dark",
         "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1568668356i/49977811.jpg",
         "dateRead": "Apr 27, 2024",
-        "rating": 4
+        "rating": 4,
+        "author": "Tomasz Jedrowski"
     },
     {
         "title": "Every Star That Falls",
         "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1682981054i/65646937.jpg",
         "dateRead": "Apr 25, 2024",
-        "rating": 4
+        "rating": 4,
+        "author": "Michael Thomas Ford"
     },
     {
         "title": "Nick and Charlie: A Heartstopper Novella",
         "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1659645549i/61285758.jpg",
         "dateRead": "Apr 18, 2024",
-        "rating": 4
+        "rating": 4,
+        "author": "Alice Oseman"
     },
     {
         "title": "Something Like Autumn",
         "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1369474287i/17975600.jpg",
         "dateRead": "Apr 16, 2024",
-        "rating": 5
+        "rating": 5,
+        "author": "Jay Bell"
     },
     {
         "title": "Heartstopper: Volume Five",
         "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1695913246i/53344030.jpg",
         "dateRead": "Jan 25, 2024",
-        "rating": 5
+        "rating": 5,
+        "author": "Alice Oseman"
     },
     {
         "title": "Boy Like Me",
         "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1670446710i/64484966.jpg",
         "dateRead": "Jan 23, 2024",
-        "rating": 4
+        "rating": 4,
+        "author": "Simon James Green"
     },
     {
         "title": "All That’s Left in the World",
         "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1624548105i/58329296.jpg",
         "dateRead": "Aug 30, 2023",
-        "rating": 5
+        "rating": 5,
+        "author": "Erik J. Brown"
     },
     {
         "title": "I Wish You All the Best",
