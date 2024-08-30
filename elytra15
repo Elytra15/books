@@ -1,39 +1,45 @@
 [
-{
+    {
         "title": "The Ghosts We Keep",
         "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1597848126i/49439243.jpg",
         "dateRead": "Aug 12, 2024",
-        "rating": 4
+        "rating": 4,
+        "author": "Mason Deaver"
     },
     {
         "title": "You've Reached Sam",
         "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1652952764i/61127267.jpg",
         "dateRead": "Aug 9, 2024",
-        "rating": 3
+        "rating": 3,
+        "author": "Dustin Thao"
     },
     {
         "title": "Autoboyography",
         "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1490425916i/28919058.jpg",
         "dateRead": "Jun 27, 2024",
-        "rating": 4
+        "rating": 4,
+        "author": "Christina Lauren"
     },
     {
         "title": "Boyfriend Material",
         "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1575987260i/50225678.jpg",
         "dateRead": "Jun 13, 2024",
-        "rating": 4
+        "rating": 4,
+        "author": "Alexis Hall"
     },
     {
         "title": "Café Con Lychee",
         "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1633604756i/58782892.jpg",
         "dateRead": "May 22, 2024",
-        "rating": 5
+        "rating": 5,
+        "author": "Emery Lee"
     },
     {
         "title": "The Fault in Our Stars",
         "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1660273739i/11870085.jpg",
         "dateRead": "May 14, 2024",
-        "rating": 3
+        "rating": 3,
+        "author": "John Green"
     },
     {
         "title": "The First to Die at the End",
