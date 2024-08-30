@@ -346,72 +346,84 @@
         "title": "Two Boys Kissing",
         "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1364194940i/17237214.jpg",
         "dateRead": "Jun 7, 2022",
-        "rating": 4
+        "rating": 4,
+        "author": "David Levithan"
     },
     {
         "title": "Simon vs. the Homo Sapiens Agenda",
         "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1405979506i/22754644.jpg",
         "dateRead": "May 31, 2022",
-        "rating": 5
+        "rating": 5,
+        "author": "Becky Albertalli"
     },
     {
         "title": "The Midnight Library",
         "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1602190253i/52578297.jpg",
         "dateRead": "Apr 26, 2022",
-        "rating": 3
+        "rating": 3,
+        "author": "Matt Haig"
     },
     {
         "title": "Heartstopper: Volume Two",
         "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1564967250i/43307358.jpg",
         "dateRead": "Apr 5, 2022",
-        "rating": 5
+        "rating": 5,
+        "author": "Alice Oseman"
     },
     {
         "title": "One of Us Is Lying",
         "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1632078539i/58679358.jpg",
         "dateRead": "Mar 14, 2022",
-        "rating": 4
+        "rating": 4,
+        "author": "Karen M. McManus"
     },
     {
         "title": "We Were Liars",
         "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1402749479i/16143347.jpg",
         "dateRead": "Feb 20, 2022",
-        "rating": 3
+        "rating": 3,
+        "author": "E. Lockhart"
     },
     {
         "title": "Arthur: The Dog Who Crossed the Jungle to Find a Home",
         "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1489008578i/30314607.jpg",
         "dateRead": "Feb 07, 2022",
-        "rating": 4
+        "rating": 4,
+        "author": "Mikael Lindnord"
     },
     {
         "title": "The Perks of Being a Wallflower",
         "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1511288703i/4327066.jpg",
         "dateRead": "Jan 30, 2022",
-        "rating": 5
+        "rating": 5,
+        "author": "Stephen Chbosky"
     },
     {
         "title": "They Both Die at the End",
         "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1494333138i/33385229.jpg",
         "dateRead": "Jan 28, 2022",
-        "rating": 5
+        "rating": 5,
+        "author": "Adam Silvera"
     },
     {
         "title": "Heartstopper: Volume Three",
         "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1572608363i/43449920.jpg",
         "dateRead": "Jan 23, 2022",
-        "rating": 5
+        "rating": 5,
+        "author": "Alice Oseman"
     },
     {
         "title": "Heartstopper: Volume Four",
         "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1640745736i/56060300.jpg",
         "dateRead": "Jan 8, 2022",
-        "rating": 5
+        "rating": 5,
+        "author": "Alice Oseman"
     },
     {
         "title": "Heartstopper: Volume One",
         "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1712679126i/40495957.jpg",
         "dateRead": "Dec 27, 2021",
-        "rating": 5
+        "rating": 5,
+        "author": "Alice Oseman"
     }
 ]
