@@ -1,5 +1,13 @@
 [
     {
+        "title": "You've Reached Sam",
+        "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1652952764i/61127267.jpg",
+        "dateRead": "Aug 9, 2024",
+        "rating": 3,
+        "cr": "yes"
+    },
+    
+{
         "title": "The Ghosts We Keep",
         "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1597848126i/49439243.jpg",
         "dateRead": "Aug 12, 2024",
@@ -12,7 +20,6 @@
         "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1652952764i/61127267.jpg",
         "dateRead": "Aug 9, 2024",
         "rating": 3,
-        "cr": "yes"
     },
     {
         "title": "Autoboyography",
