@@ -1,0 +1,14 @@
+[
+    {
+        "title": "The Perks of Being a Wallflower",
+        "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1511288703i/4327066.jpg",
+        "dateRead": "Jan 30, 2022",
+        "rating": 5
+    },
+    {
+        "title": "They Both Die at the End",
+        "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1494333138i/33385229.jpg",
+        "dateRead": "Jan 28, 2022",
+        "rating": 5
+    }
+]
