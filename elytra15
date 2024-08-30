@@ -11,7 +11,8 @@
         "title": "You've Reached Sam",
         "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1652952764i/61127267.jpg",
         "dateRead": "Aug 9, 2024",
-        "rating": 3
+        "rating": 3,
+        "cr": "yes"
     },
     {
         "title": "Autoboyography",
