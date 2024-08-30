@@ -220,109 +220,127 @@
         "title": "The Song of Achilles",
         "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1620869288i/58028296.jpg",
         "dateRead": "Jan 5, 2023",
-        "rating": 4
+        "rating": 4,
+        "author": "Madeline Miller"
     },
     {
         "title": "The Lover's Dictionary",
         "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1312055996i/9279177.jpg",
         "dateRead": "Jan 2, 2023",
-        "rating": 4
+        "rating": 4,
+        "author": "David Levithan"
     },
     {
         "title": "Openly, Honestly",
         "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1487202976i/34317317.jpg",
         "dateRead": "Jan, 2023",
-        "rating": 4
+        "rating": 4,
+        "author": "Bill Konigsberg"
     },
     {
         "title": "Openly Straight",
         "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1358050824i/16100972.jpg",
         "dateRead": "Jan, 2023",
-        "rating": 5
+        "rating": 5,
+        "author": "Bill Konigsberg"
     },
     {
         "title": "Take Me With You When You Go",
         "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1620936518i/57851789.jpg",
         "dateRead": "Dec 29, 2022",
-        "rating": 3
+        "rating": 3,
+        "author": "David Levithan, Jennifer Niven"
     },
     {
         "title": "How to Stay Alive: The Ultimate Survival Guide for Any Situation",
         "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1514787288i/34405642.jpg",
         "dateRead": "Dec 18, 2022",
-        "rating": 5
+        "rating": 5,
+        "author": "Bear Grylls"
     },
     {
         "title": "Infinity Son",
         "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1562781746i/34510711.jpg",
         "dateRead": "Dec 22, 2022",
-        "rating": 3
+        "rating": 3,
+        "author": "Adam Silvera"
     },
     {
         "title": "Another Day",
         "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1418831299i/18459855.jpg",
         "dateRead": "Aug 22, 2022",
-        "rating": 4
+        "rating": 4,
+        "author": "David Levithan"
     },
     {
         "title": "Every Day",
         "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1356993940i/13262783.jpg",
         "dateRead": "Aug 13, 2022",
-        "rating": 4
+        "rating": 4,
+        "author": "David Levithan"
     },
     {
         "title": "Boy Meets Boy",
         "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1356335082i/23228.jpg",
         "dateRead": "Aug 8, 2022",
-        "rating": 5
+        "rating": 5,
+        "author": "David Levithan"
     },
     {
         "title": "Will Grayson, Will Grayson",
         "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1660273765i/6567017.jpg",
         "dateRead": "Jul 18, 2022",
-        "rating": 3
+        "rating": 3,
+        "author": "John Green, David Levithan"
     },
     {
         "title": "Jay's Gay Agenda",
         "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1631812075i/55200702.jpg",
         "dateRead": "Jul 8, 2022",
-        "rating": 4
+        "rating": 4,
+        "author": "Jason June"
     },
     {
         "title": "Love Is the Higher Law",
         "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1441826048i/5982447.jpg",
         "dateRead": "Jun 29, 2022",
-        "rating": 5
+        "rating": 5,
+        "author": "David Levithan"
     },
-{
+    {
         "title": "You Know Me Well",
         "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1448074907i/27158835.jpg",
         "dateRead": "Jun 27, 2022",
-        "rating": 4
+        "rating": 4,
+        "author": "David Levithan, Nina LaCour"
     },
     {
         "title": "Here's to Us",
         "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1618339879i/55424906.jpg",
         "dateRead": "Jun 22, 2022",
-        "rating": 3
+        "rating": 3,
+        "author": "Becky Albertalli, Adam Silvera"
     },
     {
         "title": "History Is All You Left Me",
         "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1462807691i/25014114.jpg",
         "dateRead": "Jun 16, 2022",
-        "rating": 4
+        "rating": 4,
+        "author": "Adam Silvera"
     },
     {
         "title": "Aristotle and Dante Discover the Secrets of the Universe",
         "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1328320260i/12000020.jpg",
         "dateRead": "Jun 12, 2022",
-        "rating": 5
+        "rating": 5,
+        "author": "Benjamin Alire Sáenz"
     },
     {
         "title": "What If It's Us",
         "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1526557760i/36341204.jpg",
         "dateRead": "Jun 07, 2022",
-        "rating": 5
+        "rating": 5,
+        "author": "Becky Albertalli, Adam Silvera"
     },
     {
         "title": "Two Boys Kissing",
