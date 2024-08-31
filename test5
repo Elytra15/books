@@ -6,8 +6,6 @@
             "author": "Author Name 1",
             "rating": 4,
             "dateRead": "2024-01-15",
-            "startDate": "2024-01-01",
-            "endDate": "2024-01-14",
             "review": "A brief review of the book.",
             "image": "https://example.com/image1.jpg"
         },
@@ -16,8 +14,6 @@
             "author": "Author Name 2",
             "rating": 5,
             "dateRead": "2024-03-22",
-            "startDate": "2024-03-15",
-            "endDate": "2024-03-21",
             "review": "An insightful book with great content.",
             "image": "https://example.com/image2.jpg"
         },
@@ -26,8 +22,6 @@
             "author": "Author Name 3",
             "rating": 3,
             "dateRead": "2024-07-10",
-            "startDate": "2024-07-01",
-            "endDate": "2024-07-09",
             "review": "A decent read but could be improved.",
             "image": "https://example.com/image3.jpg"
         }
