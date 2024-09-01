@@ -1,0 +1,32 @@
+{
+  "readingGoal": 30,
+  "books": [
+    {
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "dateRead": "2023-03-15",
+      "rating": 5,
+      "coverImage": "images/great_gatsby.jpg",
+      "description": "A novel about the American dream and the disillusionment of the Jazz Age.",
+      "isTopBook": true
+    },
+    {
+      "title": "1984",
+      "author": "George Orwell",
+      "dateRead": "2023-06-10",
+      "rating": 4,
+      "coverImage": "images/1984.jpg",
+      "description": "A dystopian novel set in a totalitarian society under constant surveillance.",
+      "isTopBook": false
+    },
+    {
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "dateRead": "2023-01-22",
+      "rating": 5,
+      "coverImage": "images/to_kill_a_mockingbird.jpg",
+      "description": "A story of racial injustice and moral growth in the American South.",
+      "isTopBook": true
+    }
+  ]
+}
