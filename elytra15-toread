@@ -34,5 +34,25 @@
         "title": "Fangirl",
         "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1355886270i/16068905.jpg",
         "author": "Rainbow Rowell"
+    },
+    {
+        "title": "Anna and the French Kiss",
+        "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1472307261i/17453983.jpg",
+        "author": "Stephanie Perkins"
+    },
+    {
+        "title": "More Happy Than Not",
+        "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1456092977i/26236898.jpg",
+        "author": "Adam Silvera"
+    },
+    {
+        "title": "Sam & Ilsa's Last Hurrah",
+        "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1514136906i/35511050.jpg",
+        "author": "Rachel Cohn, David Levithan"
+    },
+    {
+        "title": "Nick & Norah's Infinite Playlist",
+        "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1425188149i/25373.jpg",
+        "author": "Rachel Cohn, David Levithan"
     }
 ]
