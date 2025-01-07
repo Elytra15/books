@@ -1,13 +1,38 @@
 
 [
     {
-        "title": "The Inexplicable Logic of My Life",
-        "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1465421675i/30388930.jpg",
-        "author": "Benjamin Alire Sáenz"
+        "title": "The Hate U Give",
+        "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1476284759i/32075671.jpg",
+        "author": "Angie Thomas"
     },
-{
-        "title": "The Inexplicable Logic of My Life",
-        "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1465421675i/30388930.jpg",
-        "author": "Benjamin Alire Sáenz"
+    {
+        "title": "The Beginning of Everything",
+        "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1366395005i/13522285.jpg",
+        "author": "Robyn Schneider"
+    },
+    {
+        "title": "We Are the Ants",
+        "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1425574151i/23677341.jpg",
+        "author": "Shaun David Hutchinson"
+    },
+    {
+        "title": "Turtles All the Way Down",
+        "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1503002776i/35504431.jpg",
+        "author": "John Green"
+    },
+    {
+        "title": "The Summer I Turned Pretty",
+        "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1361666855i/5821978.jpg",
+        "author": "Jenny Han"
+    },
+    {
+        "title": "Lies We Tell Ourselves",
+        "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1396886699i/20579291.jpg",
+        "author": "Robin Talley"
+    },
+    {
+        "title": "Fangirl",
+        "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1355886270i/16068905.jpg",
+        "author": "Rainbow Rowell"
     }
 ]
