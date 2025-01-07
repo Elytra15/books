@@ -54,5 +54,50 @@
         "title": "Nick & Norah's Infinite Playlist",
         "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1425188149i/25373.jpg",
         "author": "Rachel Cohn, David Levithan"
+    },
+    {
+        "title": "Paper Towns",
+        "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1458470092i/18690890.jpg",
+        "author": "John Green"
+    },
+    {
+        "title": "Cemetery Boys",
+        "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1594059624i/52339313.jpg",
+        "author": "Aiden Thomas"
+    },
+    {
+        "title": "Eleanor & Park",
+        "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1341952742i/15745753.jpg",
+        "author": "Rainbow Rowell"
+    },
+    {
+        "title": "Our Chemical Hearts",
+        "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1463228676i/28186273.jpg",
+        "author": "Krystal Sutherland"
+    },
+    {
+        "title": "Dash & Lily's Book of Dares",
+        "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1327874609i/7741325.jpg",
+        "author": "Rachel Cohn, David Levithan"
+    },
+    {
+        "title": "The Gravity of Us",
+        "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1589768207i/48731486.jpg",
+        "author": "Phil Stamper"
+    },
+    {
+        "title": "Attachments",
+        "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1499377988i/8909152.jpg",
+        "author": "Rainbow Rowell"
+    },
+    {
+        "title": "As Far As You'll Take Me",
+        "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1597093701i/53138234.jpg",
+        "author": "Phil Stamper"
+    },
+    {
+        "title": "Leah on the Offbeat",
+        "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1510886704i/31180248.jpg",
+        "author": "Becky Albertalli"
     }
 ]
